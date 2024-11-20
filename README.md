@@ -8,4 +8,4 @@ This is a small project that will solve basic counting of yarn needed for projec
 
 This will be mine first python project but I've coded in C, C# and Java before
 
-<b> Any recomendations and remidenders are welcomed! </b>
+<b> Any recomendations and reminders are welcomed! </b>
